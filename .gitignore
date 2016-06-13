@@ -1,0 +1,9 @@
+# Ignore dependencies
+node_modules
+
+#ignore built files
+public/js/bundle.js
+public/js/bundle.js.map
+
+#ignore debug files
+npm-debug.log
