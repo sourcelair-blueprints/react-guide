@@ -1,32 +1,33 @@
 {
-	"name": "react-guide",
-	"version": "1.0.0",
-	"description": "",
-	"main": "webpack.config.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"build": "webpack -d",
-		"start": "node server.js"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/sourcelair-blueprints/react-guide.git"
-	},
-	"author": "Dimitris Karagiannis (https://github.com/mkarajohn)",
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/sourcelair-blueprints/react-guide/issues"
-	},
-	"homepage": "https://github.com/sourcelair-blueprints/react-guide#readme",
-	"dependencies": {
-		"express": "^4.13.4",
-		"react": "^15.1.0",
-		"react-dom": "^15.1.0"
-	},
-	"devDependencies": {
-		"babel-core": "^6.9.1",
-		"babel-loader": "^6.2.4",
-		"babel-preset-react": "^6.5.0",
-		"webpack": "^1.13.1"
-	}
+  "name": "react-guide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack -d",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcelair-blueprints/react-guide.git"
+  },
+  "author": "Dimitris Karagiannis (https://github.com/mkarajohn)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourcelair-blueprints/react-guide/issues"
+  },
+  "homepage": "https://github.com/sourcelair-blueprints/react-guide#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^1.13.1"
+  }
 }
