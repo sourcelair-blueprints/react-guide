@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/sourcelair-blueprints/react-guide#readme",
   "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
     "react": "^15.1.0",
     "react-dom": "^15.1.0"
   },
