@@ -6,5 +6,5 @@ var ExampleComponent = require('./components/example');
 
 ReactDOM.render(
 	<ExampleComponent whom="React"/>, 
-	document.getElementById('app')
+	document.getElementById('content')
 );
