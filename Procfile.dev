@@ -1,2 +1,2 @@
-builder: npm run build-watch
 web: npm run start
+builder: npm run build-watch
